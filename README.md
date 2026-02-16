@@ -22,25 +22,25 @@ To perform a comprehensive bioinformatics analysis of human Glycophorin A (UniPr
 - **Key Functions**: Membrane stability, pathogen receptor, blood group antigen
 
 ### 2. BLAST Search
-![BLAST against PDB](results/blast_pdb.png)
+
 *BLAST results against PDB database – top hits with known structures.*
 
-![BLAST against RefSeq](results/blast_refseq.png)
+
 *BLAST results against RefSeq database – orthologs in other species.*
 
 ### 3. Multiple Sequence Alignment
-![MSA from MultAlin](results/msa_alignment.png)
+
 *Multiple sequence alignment showing conserved and variable regions.*
 
 ### 4. Phylogenetic Tree
-![Phylogenetic tree – species](results/phylo_species.png)
+
 *Phylogenetic tree of Glycophorin A across different species.*
 
-![Phylogenetic tree – variants](results/phylo_variants.png)
+
 *Phylogenetic tree of human Glycophorin A variants.*
 
 ### 5. Structural Alignment
-![Structural alignment in PyMOL](results/structural_alignment.png)
+
 *Superimposition of NMR structures 2KPE and 2KPF. RMSD = 0.737 Å (high similarity).*
 
 ### 6. Post-Translational Modifications
